@@ -1,0 +1,16 @@
+PODS:
+  - jetfire (0.1.5)
+
+DEPENDENCIES:
+  - jetfire (= 0.1.5)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - jetfire
+
+SPEC CHECKSUMS:
+  jetfire: 60c16cd6ae0282928e24203eb93f03b89c1929ce
+
+PODFILE CHECKSUM: 1495e44d68779c00dba12d65ccc7d3262fd0280d
+
+COCOAPODS: 1.5.3
